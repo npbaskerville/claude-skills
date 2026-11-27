@@ -1,0 +1,14 @@
+{
+  "name": "paper-reading",
+  "displayName": "Paper Reading",
+  "version": "1.0.0",
+  "description": "Turn a technical paper (pure maths, theory, ML or other empirical work; arXiv link/id, PDF and/or LaTeX source) into one reading-copy PDF: a front reading guide (key references, argument graph, reading route, exercises) plus the paper with route sections boxed.",
+  "author": {
+    "name": "Nicholas Baskerville",
+    "url": "https://github.com/npbaskerville"
+  },
+  "homepage": "https://github.com/npbaskerville/claude-skills",
+  "repository": "https://github.com/npbaskerville/claude-skills",
+  "license": "Apache-2.0",
+  "keywords": ["papers", "arxiv", "latex", "reading", "pdf", "research"]
+}

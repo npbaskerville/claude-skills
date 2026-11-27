@@ -1,0 +1,17 @@
+{
+  "name": "npbaskerville",
+  "description": "Claude skills by Nicholas Baskerville",
+  "owner": {
+    "name": "Nicholas Baskerville",
+    "url": "https://github.com/npbaskerville"
+  },
+  "plugins": [
+    {
+      "name": "paper-reading",
+      "source": "./plugins/paper-reading",
+      "description": "Turn a technical paper into a single reading-copy PDF: a front reading guide plus the recompiled paper with the reading route boxed.",
+      "category": "research",
+      "tags": ["papers", "arxiv", "latex", "reading", "pdf"]
+    }
+  ]
+}
